@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<hivemq-extension>
-    <id>guard-auth-extension</id>
-    <version>4.17.0</version>
-    <name>Geobrugg GUARD Authentication Extension</name>
-    <author>Rittmeyer AG</author>
-    <priority>1000</priority>
-    <start-priority>1000</start-priority>
-</hivemq-extension>
